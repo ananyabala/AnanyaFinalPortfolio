@@ -1,0 +1,19 @@
+.jumbotron{
+    background-color: white;
+}
+
+.gridImage{
+    height: 280px;
+    overflow: hidden;
+    width: 500px;
+}
+
+
+.portfolioImage{
+    overflow: hidden;
+}
+
+#footer{
+    padding-left: 33.3%;
+    padding-right: 33.3%;
+}
